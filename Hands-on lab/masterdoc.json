@@ -7,11 +7,7 @@
           "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MCW/MCW-Intelligent-analytics/prod/Hands-on%20lab/getting-started.md",
           "Order": 1  
         },
-         {
-          "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MCW/MCW-Intelligent-analytics/prod/Hands-on%20lab/00.md",
-          "Order": 2 
-
-        },
+        
         {
           "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MCW/MCW-Intelligent-analytics/prod/Hands-on%20lab/01.md",
           "Order": 2
