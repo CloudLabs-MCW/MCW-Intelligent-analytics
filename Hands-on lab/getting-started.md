@@ -52,6 +52,6 @@ Duration: 10 mins
 
    ![](media/rg-lob.png "Resource groups")
 
-13. Click on the intelligent-analytics-SUFFIX Resource group and confirm whether you have all the below resources deployed successfully.
+13. Click on the **intelligent-analytics-<inject key="DeploymentID" enableCopy="false"/>** Resource group and confirm whether you have all the below resources deployed successfully.
 
    ![](media/portal_resources.PNG "Resource groups")
